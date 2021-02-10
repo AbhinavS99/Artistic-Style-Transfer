@@ -13,10 +13,10 @@ The style transfer works by defining two types of losses viz. style loss (for th
 6. Outputs the generated image in folder-output
 
 ## Outputs
-Style and Content Image|
-:-----------:|
-![](imgs/style_content.png)|
+Style Image | Content Image|
+:-----------:|:-------:|
+![](imgs/picasso.jpg)|![](imgs/dancing.jpg)|
 
 Input Image| Output Image|
 :---:|:----:|
-![](imgs/input.png)|![](output.png)|
+![](imgs/input.png)|![](imgs/output.png)|
